@@ -6,7 +6,7 @@
     <title>Students Table</title>
     <style>
         table {
-            border-collapse: collapse;
+            
             width: 50%;
             margin: 20px auto;
             font-family: Arial, sans-serif;
